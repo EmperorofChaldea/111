@@ -1,0 +1,24 @@
+{
+  "id": "d234af88-bcd9-4e12-8c33-7bca8f88dfd1",
+  "str": 48,
+  "agi": 82,
+  "wil": 59,
+  "obs": 75,
+  "wis": 64,
+  "cha": 61,
+  "hp": 10,
+  "me": 11,
+  "name": "艾琳",
+  "gender": "女",
+  "birthday": "2087-11-30",
+  "ethnicity": "人类",
+  "pathwayId": "011",
+  "pathwayName": "生命途径",
+  "seqId": "011-9",
+  "seqName": "提问官",
+  "seqLevel": 9,
+  "skillIds": [
+    "011-9-001",
+    "011-9-002"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aed909f0-4ace-4070-9a63-277f847ccd77",
+  "str": 51,
+  "agi": 70,
+  "wil": 56,
+  "obs": 69,
+  "wis": 60,
+  "cha": 52,
+  "hp": 11,
+  "me": 12,
+  "name": "史蒂芬",
+  "gender": "男",
+  "birthday": "2088-06-22",
+  "ethnicity": "人类",
+  "pathwayId": "011",
+  "pathwayName": "生命途径",
+  "seqId": "011-9",
+  "seqName": "医生",
+  "seqLevel": 9,
+  "skillIds": [
+    "011-9-102",
+    "011-9-201",
+    "011-9-002",
+    "011-9-103"
+  ]
+}

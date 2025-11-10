@@ -1,0 +1,24 @@
+{
+  "id": "deafbeef-aaaa-bbbb-cccc-ddddeeeeffff",
+  "str": 58,
+  "agi": 65,
+  "wil": 70,
+  "obs": 68,
+  "wis": 73,
+  "cha": 55,
+  "hp": 12,
+  "me": 13,
+  "name": "约书亚",
+  "gender": "男",
+  "birthday": "2085-02-03",
+  "ethnicity": "人类",
+  "pathwayId": "011",
+  "pathwayName": "生命途径",
+  "seqId": "011-9",
+  "seqName": "小说家",
+  "seqLevel": 9,
+  "skillIds": [
+    "011-9-001",
+    "011-9-002"
+  ]
+}
