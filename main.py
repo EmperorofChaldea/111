@@ -5,8 +5,8 @@ from generator import generate_excel
 def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     json_dir = os.path.join(base_dir, "input_jsons")
-    template_path = os.path.join(base_dir, "成品.xlsx")
-    skills_path = os.path.join(base_dir, "《奇点之后》车卡序列资料正式版V0.6.6).xlsx")
+    template_path = os.path.join(base_dir, "输出模板.xlsx")
+    skills_path = os.path.join(base_dir, "技能表.xlsx")
     output_path = os.path.join(base_dir, "成品输出.xlsx")
 
     json_files = [
